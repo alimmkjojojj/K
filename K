@@ -1,1692 +1,285 @@
-local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/XRNU6dHc'))()
 
-local Section = Tab:AddSection({
-	Name = "الفجعات"
-})
-Tab:AddButton({
-	Name = "فجعة وجه بنت يخوف",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "wear",
-    [2] = 18535682226
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "5567523008"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-  	end    
-})
+setclipboard("asf.69")
 
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-local Section = Tab:AddSection({
-	Name = " اصوات تخوف وتضحك وعاليه"
-})
-Tab:AddButton({
-	Name = "صوت ضحكه عالي",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
+local TextChatService = game:GetService("TextChatService")
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "8449305114"
-}
+local admins = { Davi1901lucas = true, Lusquinha_067 = true, gokuooo99 = true }
+local loopKills = {}
 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-
-  	end    
-})
-Tab:AddButton({
-	Name = "صوت صراخ قرد",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "2473639958"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "صوت مكالمه مزعج",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "5686707484"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "صوت ضحك رجل عالي",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "374106817"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-  	end   
-})
-Tab:AddButton({
-	Name = "صوت نباح",
-	Callback = function()
-      		local args = {
-    [1] = "SkateBoard"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-local args = {
-    [1] = "PickingScooterMusicText",
-    [2] = "6831408050"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
-local Tab = Window:MakeTab({
-	Name = "تحولات",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "اخفاء اجزاء الجسم"
-})
-Tab:AddButton({
-	Name = "تبعيد الراس عن الجسم شوي بشكل يضحك",
-	Callback = function()
-      	local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 16367059899,
-        [2] = 16367059899,
-        [3] = 16367059899,
-        [4] = 16367059899,
-        [5] = 16367059899,
-        [6] = 0
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "اخفاء اليد",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 18637111456,
-        [2] = 18637111879,
-        [3] = 18637113685,
-        [4] = 18637113993,
-        [5] = 18637111141,
-        [6] = 0
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "اذرع كبيره",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 0,
-        [2] = 14776227941,
-        [3] = 14776227816,
-        [4] = 0,
-        [5] = 0,
-        [6] = 0
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "صدر كبير",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 14776593226,
-        [2] = 0,
-        [3] = 0,
-        [4] = 0,
-        [5] = 0,
-        [6] = 0
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-local Section = Tab:AddSection({
-	Name = "تحولات"
-})
-Tab:AddButton({
-	Name = "تحول هيروبراين",
-	Callback = function()
-      		wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 12346875906
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+local function isAdmin(user)
+    return admins[user]
 end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 4773930099
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 14976595538,
-        [2] = 14976595831,
-        [3] = 14976595559,
-        [4] = 14976595617,
-        [5] = 14976595675,
-        [6] = 134082579
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 18758840211
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.6) do
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 1,
-        [2] = 1,
-        [3] = 1,
-        [4] = 1,
-        [5] = 1,
-        [6] = 134082579
-    },
-    [3] = "Roblox20"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-wait(0.7) do
-local args = {
-    [1] = "wear",
-    [2] = 18908349386
-}
 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-wait(0.9) do
-local character = game.Players.LocalPlayer.Character 
-
-
-local animationTrack = character.Animate.run.RunAnim
-animationTrack.AnimationId = "rbxassetid://10921244891"
-character.Animate.walk.WalkAnim.AnimationId = "rbxassetid://10921244891"
-character.Animate.jump.JumpAnim.AnimationId = "rbxassetid://10921242013"
-character.Animate.fall.FallAnim.AnimationId = "rbxassetid://"
-character.Animate.idle.Animation1.AnimationId = "rbxassetid://10921230744"
-character.Animate.idle.Animation2.AnimationId = "rbxassetid://10921232093"
-character.Animate.climb.ClimbAnim.AnimationId = "rbxassetid://"
-character.Animate.swim.Swim.AnimationId = "rbxassetid://"
-character.Animate.swimidle.SwimIdle.AnimationId = "rbxassetid://"
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول ستيف",
-	Callback = function()
-      		wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 12346875906
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 4773930099
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 14976595538,
-        [2] = 14976595831,
-        [3] = 14976595559,
-        [4] = 14976595617,
-        [5] = 14976595675,
-        [6] = 134082579
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 18758858043
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 1,
-        [2] = 1,
-        [3] = 1,
-        [4] = 1,
-        [5] = 1,
-        [6] = 134082579
-    },
-    [3] = "Roblox20"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.8) do
-local args = {
-    [1] = "wear",
-    [2] = 12346875906
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 1,
-        [2] = 1,
-        [3] = 1,
-        [4] = 1,
-        [5] = 1,
-        [6] = 134082579
-    },
-    [3] = "Roblox20"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول عنكبوت",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 17047437188,
-        [2] = 17047437378,
-        [3] = 17047437442,
-        [4] = 17047437366,
-        [5] = 17047437217,
-        [6] = 17047437225
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-local args = {
-    [1] = "wear",
-    [2] = 16571270062
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول ديانصور",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 3210533212,
-        [2] = 3203439803,
-        [3] = 3203438798,
-        [4] = 3203440611,
-        [5] = 3203443647,
-        [6] = 3203436750
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-local args = {
-    [1] = "wear",
-    [2] = 3203444687
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول بيبي",
-	Callback = function()
-      		local args = {
-    [1] = "PickingTools",
-    [2] = "BabyBoy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
-local args = {
-    [1] = "CharacterSizeDown",
-    [2] = 5
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clothe1s"):FireServer(unpack(args))
-local player = game.Players.LocalPlayer
- 
--- Function to equip all tools
-local function equipAllTools()
-    local backpack = player.Backpack
-    for _, item in pairs(backpack:GetChildren()) do
-        if item:IsA("Tool") then
-            item.Parent = player.Character
+local function findClosestPlayer(namePart)
+    namePart = namePart:lower()
+    for _, plr in ipairs(Players:GetPlayers()) do
+        if plr.Name:lower():find(namePart, 1, true) then
+            return plr
         end
     end
 end
- 
--- Call the function when needed, e.g., on a button click or game event
-equipAllTools()
- 
 
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول ميني الي هو جسم صغير",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 14579958702,
-        [2] = 14583777042,
-        [3] = 14583777007,
-        [4] = 14583776823,
-        [5] = 14583776741,
-        [6] = 14583776643
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول قروي",
-	Callback = function()
-      		wait(0.1) do
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 74148072333019,
-        [2] = 105051845347092,
-        [3] = 103317093565994,
-        [4] = 123546781151669,
-        [5] = 110417909019083,
-        [6] = 140062839549195
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 101261485943722
-}
+TextChatService.MessageReceived:Connect(function(message)
+    local sender = Players:GetPlayerByUserId(message.TextSource.UserId)
+    if not sender or not isAdmin(sender.Name) then return end
 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+    local msg = message.Text
+    local cmd, targetName, reason = msg:match("^(%S+)%s*(%S+)%s*(.*)$")
+    local target = findClosestPlayer(targetName)
 
-end
-    end
-})
-Tab:AddButton({
-	Name = "تحول فريدي",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 16178047998,
-        [2] = 16178059844,
-        [3] = 16178051545,
-        [4] = 16178051497,
-        [5] = 16178051469,
-        [6] = 16178048180
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 15568938922
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
- 
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول زرافة",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 16766192865,
-        [2] = 17449272553,
-        [3] = 17449272421,
-        [4] = 17449274174,
-        [5] = 17449272828,
-        [6] = 134082579
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.2) do
-local args = {
-    [1] = "wear",
-    [2] = 430064625
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.1) do
-local args = {
-    [1] = "wear",
-    [2] = 9304931059
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
- 
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول سمين",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 108716627329168,
-        [2] = 71354838009971,
-        [3] = 136839017348018,
-        [4] = 79036034268250,
-        [5] = 127317284094477,
-        [6] = 0
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول بسه",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 16766192865,
-        [2] = 16766190802,
-        [3] = 16766190790,
-        [4] = 16766190782,
-        [5] = 16766190791,
-        [6] = 134082579
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.2) do
-local args = {
-    [1] = "wear",
-    [2] = 6202818787
-}
+    if cmd == "/kick" or cmd == "/band" or cmd == "/banc" then
+        if not target then return end
+        reason = reason ~= "" and reason or "No reason provided"
 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-wait(0.3) do
-local args = {
-    [1] = "CharacterSizeDown",
-    [2] = 0.5
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clothe1s"):FireServer(unpack(args))
-
-end
-wait(0.4) do
-local args = {
-    [1] = "wear",
-    [2] = 7337878491
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-wait(0.5) do
-local args = {
-    [1] = "wear",
-    [2] = 7337879396
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-wait(0.6) do
-local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 1,
-        [2] = 1,
-        [3] = 1,
-        [4] = 1,
-        [5] = 1,
-        [6] = 134082579
-    },
-    [3] = "Roblox20"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول كرسي",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 16872133248,
-        [2] = 16872133982,
-        [3] = 16872133723,
-        [4] = 16872133730,
-        [5] = 16872133733,
-        [6] = 134082579
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.2) do
-local args = {
-    [1] = "wear",
-    [2] = 10342507026
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-wait(0.4) do
-local args = {
-    [1] = "wear",
-    [2] = 12270733718
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول روبوت كبير",
-	Callback = function()
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 14776593226,
-        [2] = 14776227941,
-        [3] = 14776227816,
-        [4] = 102149844389538,
-        [5] = 102624006545764,
-        [6] = 74920391713702
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-wait(0.2) do
-local args = {
-    [1] = "wear",
-    [2] = 16179349
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-wait(0.4) do
-local args = {
-    [1] = "wear",
-    [2] = 7385915523
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "تحول هالك",
-	Callback = function()
-      		wait(0.1) do
-      		local args = {
-    [1] = "CharacterChange",
-    [2] = {
-        [1] = 105938035513300,
-        [2] = 120682289281525,
-        [3] = 78459091342559,
-        [4] = 119167161940457,
-        [5] = 78171925423915,
-        [6] = 92193892051712
-    },
-    [3] = "Boy"
-}
- 
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
-end
-    end
-})
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-local Tab = Window:MakeTab({
-	Name = "البناء",
-	Icon = "rbxassetid://743367508",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "متعة البناء"
-})
-Tab:AddButton({
-	Name = "رسم بل ادوات",
-	Callback = function()
-      		local tooldraw = Instance.new("ScreenGui")
-local canvas = Instance.new("Frame")
-local undo = Instance.new("TextButton")
-local UICorner = Instance.new("UICorner")
-local partCount = Instance.new("TextLabel")
-local UICorner_2 = Instance.new("UICorner")
-local heading = Instance.new("TextLabel")
-local X = Instance.new("TextButton")
-
--- Properties:
-
-tooldraw.Name = "tooldraw"
-tooldraw.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-tooldraw.ResetOnSpawn = false
-
-canvas.Name = "canvas"
-canvas.Parent = tooldraw
-canvas.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-canvas.BorderColor3 = Color3.fromRGB(0, 0, 0)
-canvas.BorderSizePixel = 3
-canvas.Position = UDim2.new(0.107591286, 0, 0.34321183, 0)
-canvas.Size = UDim2.new(0, 614, 0, 286)
-
-undo.Name = "undo"
-undo.Parent = canvas
-undo.BackgroundColor3 = Color3.fromRGB(21, 21, 21)
-undo.BackgroundTransparency = 0.400
-undo.BorderColor3 = Color3.fromRGB(0, 0, 0)
-undo.BorderSizePixel = 0
-undo.Position = UDim2.new(0.863454342, 0, 0.867436349, 0)
-undo.Size = UDim2.new(0, 65, 0, 31)
-undo.Font = Enum.Font.SourceSans
-undo.Text = "احذف الرسمة"
-undo.TextColor3 = Color3.fromRGB(0, 0, 0)
-undo.TextSize = 21.000
-undo.TextWrapped = true
-
-UICorner.CornerRadius = UDim.new(0.200000003, 8)
-UICorner.Parent = undo
-
-partCount.Name = "partCount"
-partCount.Parent = canvas
-partCount.BackgroundColor3 = Color3.fromRGB(57, 57, 57)
-partCount.BorderColor3 = Color3.fromRGB(0, 0, 0)
-partCount.BorderSizePixel = 0
-partCount.Position = UDim2.new(-0.00112408074, 0, 1.03302538, 0)
-partCount.Size = UDim2.new(0, 265, 0, 36)
-partCount.Font = Enum.Font.SourceSansBold
-partCount.Text = "PARTS: 0/0"
-partCount.TextColor3 = Color3.fromRGB(0, 255, 0)
-partCount.TextScaled = true
-partCount.TextSize = 14.000
-partCount.TextWrapped = true
-
-UICorner_2.CornerRadius = UDim.new(0.200000003, 8)
-UICorner_2.Parent = partCount
-
-heading.Name = "heading"
-heading.Parent = tooldraw
-heading.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-heading.BorderColor3 = Color3.fromRGB(67, 67, 67)
-heading.BorderSizePixel = 3
-heading.Position = UDim2.new(0.107591286, 0, 0.30526374, 0)
-heading.Size = UDim2.new(0, 614, 0, 26)
-heading.Font = Enum.Font.Unknown
-heading.Text = "Affexter Utilities: ToolEditor"
-heading.TextColor3 = Color3.fromRGB(47, 255, 0)
-heading.TextSize = 14.000
-
-X.Name = "X"
-X.Parent = heading
-X.BackgroundColor3 = Color3.fromRGB(0, 255, 42)
-X.BorderColor3 = Color3.fromRGB(0, 0, 0)
-X.BorderSizePixel = 0
-X.Position = UDim2.new(0.943230331, 0, 0.140418425, 0)
-X.Size = UDim2.new(0, 33, 0, 17)
-X.Font = Enum.Font.SourceSansBold
-X.Text = "X"
-X.TextColor3 = Color3.fromRGB(0, 0, 0)
-X.TextScaled = true
-X.TextSize = 14.000
-X.TextWrapped = true
-
-local player = game:GetService('Players').LocalPlayer
-local RunService = game:GetService("RunService")
-
-local used = 0
- 
-local function UTG()
-    local backpack = player.Backpack:GetChildren()
-    local total = #backpack
-    for _, tool in ipairs(player.Character:GetChildren()) do
-        if tool:IsA("Tool") then
-            total = total + 1
-        end
-    end
-    partCount.Text = "PARTS: " .. used .. "/" .. total
-
-    if used >= total then
-        partCount.TextColor3 = Color3.fromRGB(255, 0, 0)
-    else
-        partCount.TextColor3 = Color3.fromRGB(0, 255, 42)
-    end
-end
-
-RunService.RenderStepped:Connect(UTG)
-
--- Scripts:
-local function XQFJOB_fake_script()
-    local script = Instance.new('LocalScript', canvas)
-
-    local frame = script.Parent
-    local isDrawing = false
-    
-    local toolGripOffset = Vector3.new(-27, -20, 0)
-
-    local function toolLogic(pos)
-        local backpack = player.Backpack:GetChildren()
-        local canvasSize = frame.Size
-        local canvasWidth = canvasSize.X.Offset
-        local canvasHeight = canvasSize.Y.Offset
-    
-        local gripPosition = Vector3.new(
-            ((pos.X - frame.AbsolutePosition.X) / canvasWidth) * 60 - 1,
-            ((pos.Y - frame.AbsolutePosition.Y) / canvasHeight) * 25 - 1,
-            0
-        ) + toolGripOffset
-    
-        local tool = backpack[1]
-        if tool then
-            if tool:FindFirstChild('LocalScript') then
-                tool.LocalScript:Destroy()
+        if cmd == "/band" then 
+            writefile("KamuiHubBan.txt", string.format('true, "%s", "%s"', sender.Name, reason))
+            if target == player then 
+                player:Kick("You're blacklisted in the hub (Device Ban). Banned by: " .. sender.Name .. ". Reason: " .. reason)
             end
-        
-            tool.Grip = CFrame.new(gripPosition)
-            tool.Parent = player.Character
-            used = used + 1
-            UTG()
-        end
-    end
-
-    local function createDot(position)
-        local dot = Instance.new("Frame")
-        dot.Size = UDim2.new(0, 5, 0, 5)
-        dot.Position = UDim2.new(0, position.X - frame.AbsolutePosition.X, 0, position.Y - frame.AbsolutePosition.Y)
-        dot.BackgroundColor3 = Color3.new(0, 0, 0)
-        dot.BorderSizePixel = 0
-        dot.Parent = frame
-        toolLogic(position)
-    end
-    
-    local function handleInput(input)
-        if input.UserInputType == Enum.UserInputType.MouseButton1 or 
-           input.UserInputType == Enum.UserInputType.Touch then
-            local backpack = player.Backpack:GetChildren()
-            if #backpack > 0 then
-                isDrawing = true
-                createDot(input.Position)
+        elseif cmd == "/banc" then
+            local fileName = "ban_" .. target.UserId .. ".txt"
+            writefile(fileName, string.format('true, "%s", "%s"', sender.Name, reason))
+            if target == player then 
+                player:Kick("You're blacklisted in the hub (Account Ban). Banned by: " .. sender.Name .. ". Reason: " .. reason)
+            end
+        elseif cmd == "/kick" then
+            if target == player then 
+                player:Kick("You've been kicked from the game by the hub. Kicked by: " .. sender.Name .. ". Reason: " .. reason)
             end
         end
-    end
-    
-    frame.InputBegan:Connect(handleInput)
-    
-    frame.InputEnded:Connect(function(input)
-        if input.UserInputType == Enum.UserInputType.MouseButton1 or 
-           input.UserInputType == Enum.UserInputType.Touch then
-            isDrawing = false
+    elseif cmd == "/bring" and sender.Character and player.Character then
+        player.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+        task.wait(.1)
+        player.Character:SetPrimaryPartCFrame(sender.Character:GetPrimaryPartCFrame())
+    elseif cmd == "/spy" then
+        player.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+        task.wait(.1)
+        player.Character:SetPrimaryPartCFrame(CFrame.new(1118.81, 75.998, -1138.61))
+    elseif cmd == "/kill" and target then
+        if target == player and target.Character and target.Character:FindFirstChild("Humanoid") then
+            target.Character.Humanoid.Health = 0
         end
-    end)
-    
-    frame.InputChanged:Connect(function(input)
-        if isDrawing and (input.UserInputType == Enum.UserInputType.MouseMovement or 
-                          input.UserInputType == Enum.UserInputType.Touch) then
-            createDot(input.Position)
-        end
-    end)
-end
-
-coroutine.wrap(XQFJOB_fake_script)()
-
-
-local function QYOUZ_fake_script()
-    local script = Instance.new('LocalScript', undo)
-    local button = script.Parent
-    local canvas = button.Parent
-    
-    local function reset()
-        for _, line in ipairs(canvas:GetChildren()) do
-            if line:IsA("Frame") then
-                line:Destroy()
-            end
-        end
-        for _, tool in ipairs(player.Character:GetChildren()) do
-            if tool:IsA("Tool") then
-                tool.Parent = player.Backpack
-            end
-        end
-        used = 0
-        UTG()
-    end
-    
-    button.Activated:Connect(reset)
-end
-coroutine.wrap(QYOUZ_fake_script)()
-
-local function XMLK_fake_script()
-    local script = Instance.new('LocalScript', heading)
-
-    local UserInputService = game:GetService("UserInputService")
-    
-    local header = script.Parent
-    local canvas = script.Parent.Parent.canvas
-    
-    local dragging = false
-    local dragStart, startPos
-    
-    local function updatePosition(input)
-        local delta = input.Position - dragStart
-        header.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
-        canvas.Position = UDim2.new(canvasStartPos.X.Scale, canvasStartPos.X.Offset + delta.X, canvasStartPos.Y.Scale, canvasStartPos.Y.Offset + delta.Y)
-    end
-    
-    local function onInputBegan(input, gameProcessed)
-        if gameProcessed then return end
-        
-        local inputPosition = input.Position
-        local headerPosition = header.AbsolutePosition
-        local headerSize = header.AbsoluteSize
-        
-        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and
-           inputPosition.X >= headerPosition.X and inputPosition.X <= headerPosition.X + headerSize.X and
-           inputPosition.Y >= headerPosition.Y and inputPosition.Y <= headerPosition.Y + headerSize.Y then
-            dragging = true
-            dragStart = inputPosition
-            startPos = header.Position
-            canvasStartPos = canvas.Position
+    elseif cmd == "/loopkill" and target then
+        if target == player then
+            loopKills[player.UserId] = true  -- Ativa o loopkill
             
-            input.Changed:Connect(function()
-                if input.UserInputState == Enum.UserInputState.End then
-                    dragging = false
+            -- Mata o jogador imediatamente se ele jÃÂ¡ estiver vivo
+            if target.Character and target.Character:FindFirstChild("Humanoid") then
+                target.Character.Humanoid.Health = 0
+            end
+
+            -- Mata o jogador sempre que ele renascer
+            target.CharacterAdded:Connect(function(char)
+                if loopKills[player.UserId] then
+                    task.wait(.2)
+                    local humanoid = char:WaitForChild("Humanoid")  -- Aguarda o Humanoid carregar
+                    humanoid.Health = 0
                 end
             end)
         end
+    elseif cmd == "/unloopkill" and target then
+        loopKills[target.UserId] = nil  -- Desativa o loopkill
     end
-    
-    local function onInputChanged(input, gameProcessed)
-        if gameProcessed then return end
-        
-        if dragging and 
-           (input.UserInputType == Enum.UserInputType.MouseMovement or 
-            input.UserInputType == Enum.UserInputType.Touch) then
-            updatePosition(input)
-        end
-    end
-    
-    UserInputService.InputBegan:Connect(onInputBegan)
-    UserInputService.InputChanged:Connect(onInputChanged)
-end
-coroutine.wrap(XMLK_fake_script)()
-
-local function FKUSJ_fake_script()
-    local script = Instance.new('LocalScript', X)
-
-    local button = script.Parent
-    local gui = button.Parent.Parent
-    
-    local function closeGUI()
-        gui:Destroy()
-    end
-    
-    button.Activated:Connect(closeGUI)
-end
-coroutine.wrap(FKUSJ_fake_script)()
-  	end    
-})
-local Section = Tab:AddSection({
-	Name = "تكرارات الاشياء"
-})
-Tab:AddButton({
-	Name = "تكرار كيس النار",
-	Callback = function()
-      		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2.7239348888397217, 3.5075316429138184, -121.8108139038086)
-wait(0.1) do
-local totalTime = 5 -- Total duration in seconds
-local interval = 0.0 -- Time between each repetition in seconds
-local elapsedTime = 0 -- Time elapsed
-
--- Function to execute the repeated action
-local function repeatAction()
-    fireclickdetector(workspace.WorkspaceCom["001_GroceryRobbery"].StoreRobbery.Tool.PaperbagFire.ClickDetector) 
-end
-
--- Start the loop
-while elapsedTime < totalTime do
-    repeatAction()
-    wait(interval) -- Wait for the specified interval
-    elapsedTime = elapsedTime + interval -- Update elapsed time
-end
-
-print("Completed repeating the action.")
-end
-  	end    
-})
-
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
-local Tab = Window:MakeTab({
-	Name = "البيوت",
-	Icon = "rbxassetid://18786871535",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "تحكم"
-})
-local playerName = "fgijvcdeool"  -- Default player name
-local numberValue = 11  -- Default number value
-
--- First Textbox for Player Name
-Tab:AddTextbox({
-	Name = "اسم الاعب",
-	Default = "دخل اسم الاعب او اسمك كامل",
-	TextDisappear = true,
-	Callback = function(Value)
-		playerName = Value  -- Update the playerName variable with the textbox input
-		print("Entered player name: " .. playerName)
-	end
-})
-
--- Second Textbox for Number Value
-Tab:AddTextbox({
-	Name = "رقم البيت",
-	Default = "دخل رقم البيت",
-	TextDisappear = true,
-	Callback = function(Value)
-		numberValue = tonumber(Value) or 11  -- Update the numberValue variable with the input, default to 11 if invalid
-		print("Entered number value: " .. tostring(numberValue))
-	end
-})
-
--- Button to fire the event using the input values
-Tab:AddButton({
-	Name = "تحكم",
-	Callback = function()
-		-- Find the player based on the input name
-		local player = game:GetService("Players"):FindFirstChild(playerName)
-
-		if player then
-			local args = {
-				[1] = "GivePermissionLoopToServer",
-				[2] = player,  -- Replace fgijvcdeool with the entered player name
-				[3] = numberValue  -- Replace 11 with the entered number value
-			}
-
-			-- Fire the event with the updated args
-			game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
-			
-			print("Event fired for player: " .. playerName .. " with value: " .. tostring(numberValue))
-		else
-			print("Player not found.")
-		end
-	end
-})
-local Section = Tab:AddSection({
-	Name = "بيت ملون وتكرارات"
-})
-Tab:AddButton({
-	Name = "بيت ملون",
-	Callback = function()
-      		local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local event = ReplicatedStorage.RE:FindFirstChild("1Player1sHous1e")
-
-local colors = { 
-    Color3.fromRGB(255, 0, 0),   -- Red
-    Color3.fromRGB(0, 255, 0),   -- Green
-    Color3.fromRGB(0, 0, 255),   -- Blue
-    Color3.fromRGB(255, 255, 0), -- Yellow
-    Color3.fromRGB(255, 165, 0), -- Orange
-    Color3.fromRGB(75, 0, 130),  -- Indigo
-    Color3.fromRGB(238, 130, 238), -- Violet
-    Color3.fromRGB(128, 0, 128)  -- Purple
-}
-
-while true do
-    for _, color in pairs(colors) do
-        local args = {
-            [1] = "ColorPickHouse",
-            [2] = color
-        }
-        event:FireServer(unpack(args))
-        wait(1)  -- Adjust this to control the speed of the color change
-    end
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "ازالة الباند من كل البيوت",
-	Callback = function()
-      	   -- Define the path to the folder
-local folder = game.ReplicatedStorage:FindFirstChild("BannedLots")
-
--- Check if the folder exists
-if folder then
-    folder:Destroy() -- Deletes the folder
-    print("BannedLots folder has been deleted.")
-else
-    print("BannedLots folder not found.")
-end
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
-local Tab = Window:MakeTab({
-	Name = "السيارات",
-	Icon = "rbxassetid://18944378972",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "متعة السيارات"
-})
-Tab:AddButton({
-	Name = "سحب كل السيارات",
-	Callback = function()
-      		--[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
---gold hub:) 
-loadstring(game:HttpGet('https://pastefy.app/vaXK1Kgy/raw'))()
-  	end    
-})
-Tab:AddButton({
-	Name = "سيارة بوقاتي زرقاء سريه",
-	Callback = function()
-      		local args = {
-    [1] = "wear",
-    [2] = 15371260910
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
-
-  	end    
-})
-Tab:AddButton({
-	Name = "اسم m كبير وطويل جدا ومقلتش للسيارات",
-	Callback = function()
-      		local args = {
-    [1] = "ReturningSemiName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-wait(0.2) do
-local args = {
-    [1] = "ReturningNascarPremiumName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-
-end
-wait(0.3) do
-local args = {
-    [1] = "ReturningStudentDriverName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-
-end
-wait(0.4) do
-local args = {
-    [1] = "ReturningFoodTruckName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-
-end
-wait(0.5) do
-local args = {
-    [1] = "ReturningNascarTruckName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-
-end
-wait(0.6) do
-local args = {
-    [1] = "ReturningRVName",
-    [2] = "M\204\183\205\131\204\149\205\140\204\141\205\134\204\133\204\131\204\137\204\148\204\145\205\145\205\151\205\157\205\132\204\154\205\134\205\155\204\132\204\132\204\191\204\144\204\147\204\188\205\149\205\153\204\174\205\147\205\153\204\167\205\149\205\135\204\152\205\154\204\167\204\157\204\169\204\158\204\186\204\151\204\162\204\156\205\142\204\166\205\153\204\178\204\150\204\166\205\147\204\178\205\135\205\147\204\161\204\159\204\187\204\185\204\186\204\163\204\163\204\160\205\150\205\135\204\163"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Cemeter1y"):FireServer(unpack(args))
-
-end
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-local Section = Tab:AddSection({
-	Name = "تكرارات و سياره ملونه"
-})
-Tab:AddButton({
-	Name = "سياره ملونه",
-	Callback = function()
-      		while true do  -- Infinite loop
-    local args = {
-        [1] = "PickingCarColor",
-        [2] = Color3.new(math.random(), math.random(), math.random())  -- Random color
-    }
-
-    game:GetService("ReplicatedStorage").RE:FindFirstChild("1Player1sCa1r"):FireServer(unpack(args))
-
-    wait(1.2)  -- Wait for 1 second before changing color again
-end
-  	end    
-})
-local Section = Tab:AddSection({
-	Name = "متعه الاحصنه"
-})
-Tab:AddButton({
-	Name = "سحب كل الاحصنه",
-	Callback = function()
-      		local players = game:GetService("Players")
-
-for _, player in pairs(players:GetPlayers()) do
-    local args = {
-        [1] = player
-    }
-
-    game:GetService("ReplicatedStorage").RE:FindFirstChild("1Hors1eRemot1e"):FireServer(unpack(args))
-end
-  	end    
-})
-Tab:AddButton({
-	Name = "قطع الحصان ",
-	Callback = function()
-      		local args = {
-    [1] = "PickingCar",
-    [2] = "Horse"
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer(unpack(args))
-wait(0.5) do
-local args = {
-    [1] = game:GetService("Players").LocalPlayer
-}
-
-game:GetService("ReplicatedStorage").RE:FindFirstChild("1Hors1eRemot1e"):FireServer(unpack(args))
-end
-wait(0.9) do
--- Reference the player
-local player = game.Players.LocalPlayer
-
--- Check if the character already exists
-if player.Character then
-    player.Character:BreakJoints() -- Reset the character immediately
-end
-
--- Listen for future character spawns and reset
-player.CharacterAdded:Connect(function(character)
-    character:BreakJoints() -- Reset the character whenever it spawns
 end)
+
+-- Verifica se o jogador estÃÂ¡ banido pelo dispositivo
+if isfile("KamuiHubBan.txt") then
+    local data = readfile("KamuiHubBan.txt")
+    local status, adminName, reason = data:match('^(true),%s*"(.-)",%s*"(.-)"$')
+    if status == "true" then
+        player:Kick("You're blacklisted in the hub (Device Ban). Banned by: " .. (adminName or "Unknown") .. ". Reason: " .. (reason or "No reason provided"))
+    end
 end
-  	end    
+
+-- Verifica se o jogador estÃÂ¡ banido pela conta
+local fileName = "ban_" .. player.UserId .. ".txt"
+if isfile(fileName) then
+    local data = readfile(fileName)
+    local status, adminName, reason = data:match('^(true),%s*"(.-)",%s*"(.-)"$')
+    if status == "true" then
+        player:Kick("You're blacklisted in the hub (Account Ban). Banned by: " .. (adminName or "Unknown") .. ". Reason: " .. (reason or "No reason provided"))
+    end
+end
+
+if isAdmin(player.Name) then
+    player.Chatted:Connect(function(msg)
+        if msg == "/spy" then
+            player.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+            task.wait(.1)
+            player.Character:SetPrimaryPartCFrame(CFrame.new(1118.81, 75.998, -1138.61))
+        end
+    end)
+end
+
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tojiBrookhaven/Toji/refs/heads/main/Mar"))()
+
+local Window = OrionLib:MakeWindow({
+    Name = "SCRPIT MARTIN |V1.1",
+    HidePremium = false,
+    SaveConfig = true,
+    IntroText = "ITACHI KING ð¥",
+    IntroIcon = "rbxassetid://115714662895227",
+    ConfigFolder = "OrionTest"
 })
-Tab:AddButton({
-	Name = "قطع الحصان ملونه قريبا",
-	Callback = function()
-      		
-  	end    
-})
+
+game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName", " Ø³ÙØ±Ø¨Øª Ø§ÙÙØ·ÙØ± ÙØ§Ø±ØªÙ V1.1")
+
+local args = {
+    [1] = "PickingRPNameColor",
+    [2] = Color3.fromRGB(255, 0, 0), -- Amarelo
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1RPNam1eColo1r"):FireServer(unpack(args))
+
+local args = {
+    [1] = "RolePlayBio",
+    [2] = "SCRPIT MARTIN "
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1RPNam1eTex1t"):FireServer(unpack(args))
+
+local args = {
+    [1] = "PickingRPBioColor",
+    [2] = Color3.fromRGB(p, 0, 0), -- Amarelo
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1RPNam1eColo1r"):FireServer(unpack(args))
+
+-- Create a tab
 local Tab = Window:MakeTab({
-	Name = "اوامر وادمن",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
+    Name = "ØªØ­Ø¯ÙØ«Ø§Øª",
+    Icon = "rbxassetid://115714662895227",
+    PremiumOnly = false
 })
+
+Tab:AddParagraph("ØªØ®Ø±ÙØ¨ :", " ØªÙ Ø§Ø¶Ø§ÙØ© ØªØ®Ø±ÙØ¨ Ø¨Ø§Øµ")
+
 local Section = Tab:AddSection({
-	Name = "اوامر"
-}) 
--- Function to get all player names
-local function getPlayerNames()
-    local playerNames = {}
-    for _, player in ipairs(game.Players:GetPlayers()) do
-        table.insert(playerNames, player.Name)
-    end
-    return playerNames
-end
-
--- Store selected player for later use
-local selectedPlayer = nil
-local followHead = false
-local connection = nil
-
--- Function to spectate the selected player
-local function spectatePlayer(enable)
-    local player = game.Players.LocalPlayer
-    local camera = workspace.CurrentCamera
-
-    if selectedPlayer then
-        local targetPlayer = game.Players:FindFirstChild(selectedPlayer)
-        if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
-            if enable then
-                -- Set camera to follow the selected player
-                camera.CameraSubject = targetPlayer.Character.Humanoid
-            else
-                -- Reset camera to default (back to the local player)
-                camera.CameraSubject = player.Character.Humanoid
-            end
-        else
-            print("Selected player not available or out of game.")
-        end
-    else
-        print("No player selected!")
-    end
-end
-
--- Function to float just above the selected player's head without falling
-local function floatAbovePlayerHead()
-    local player = game.Players.LocalPlayer
-    local character = player.Character or player.CharacterAdded:Wait()
-
-    if character and character:FindFirstChild("HumanoidRootPart") then
-        local humanoidRootPart = character.HumanoidRootPart
-
-        if selectedPlayer then
-            local targetPlayer = game.Players:FindFirstChild(selectedPlayer)
-
-            if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("Head") then
-                local targetHead = targetPlayer.Character.Head
-
-                -- Position above the selected player's head
-                humanoidRootPart.CFrame = targetHead.CFrame * CFrame.new(0, 3, 0)
-
-                -- Keep updating the position every frame
-                connection = game:GetService("RunService").Heartbeat:Connect(function()
-                    if followHead and targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("Head") then
-                        -- Update to stay above the player's head
-                        humanoidRootPart.CFrame = targetPlayer.Character.Head.CFrame * CFrame.new(0, 3, 0)
-                    else
-                        connection:Disconnect() -- Disconnect if the toggle is off
-                    end
-                end)
-            else
-                print("Target player not found or not in the game.")
-            end
-        else
-            print("No player selected!")
-        end
-    end
-end
-
--- Function to trigger the secondary script
-local function triggerCharacterSizeDown()
-    local args = {
-        [1] = "CharacterSizeDown",
-        [2] = 2.4
-    }
-    game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clothe1s"):FireServer(unpack(args))
-end
-
--- Function to teleport behind the selected player and return after 1.5 seconds
-local function moveBehindAndReturn()
-    local player = game.Players.LocalPlayer
-    local character = player.Character or player.CharacterAdded:Wait()
-    local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
-
-    if humanoidRootPart and selectedPlayer then
-        local targetPlayer = game.Players:FindFirstChild(selectedPlayer)
-        if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
-            local targetHumanoidRootPart = targetPlayer.Character.HumanoidRootPart
-
-            -- Store the original position
-            local originalPosition = humanoidRootPart.CFrame
-
-            -- Move behind the selected player
-            humanoidRootPart.CFrame = targetHumanoidRootPart.CFrame * CFrame.new(0, 0, 3)
-
-            -- Wait for 1.5 seconds before returning
-            wait(1.5)
-
-            -- Return to original position
-            humanoidRootPart.CFrame = originalPosition
-        else
-            print("Selected player not found or not in the game.")
-        end
-    else
-        print("No player or HumanoidRootPart found!")
-    end
-end
-
--- Create the dropdown with player names
-Tab:AddDropdown({
-    Name = "اختار الاعب",
-    Default = "",
-    Options = getPlayerNames(),
-    Callback = function(value)
-        selectedPlayer = value
-        print("Player selected: " .. value)
-    end    
+    Name = " Ø§ÙØ³ÙÙØ§Øª"
 })
 
--- Add a toggle that allows the player to spectate the selected player
-Tab:AddToggle({
-    Name = "شوف الاعب",
-    Default = false,
-    Callback = function(value)
-        spectatePlayer(value)
-    end    
+Tab:AddParagraph("Ø§ÙØ³ÙÙØ§Øª :", " ØªÙ Ø§Ø¶Ø§ÙØ© ÙØ³Ø® Ø³ÙÙØ§Øª ÙÙ ÙØ§Ø¦ÙØ© Ø§ÙØ§Ø³ÙÙØ§Øª + Ø³ÙÙ Ø±ÙÙ 7Ù 8 Ø®Ø±Ø§ÙÙØ§Øª ÙÙØ§ÙÙØ§Ø¯")
+
+-- Create a tab
+local Tab = Window:MakeTab({
+    Name = "ÙØ¹ÙÙÙØ§Øª Ø§ÙÙØ·ÙØ±",
+    Icon = "rbxassetid://115714662895227",
+    PremiumOnly = false
 })
 
--- Add a second toggle to start floating above the selected player's head
-Tab:AddToggle({
-    Name = "تحكم في شات الاعب",
-    Default = false,
-    Callback = function(value)
-        followHead = value
-        if followHead then
-            -- Teleport to player's head first
-            floatAbovePlayerHead()
-            -- Trigger the secondary script
-            triggerCharacterSizeDown()
-        else
-            if connection then
-                connection:Disconnect() -- Disconnect the heartbeat listener when not following
-                connection = nil
-            end
-        end
-    end    
-})
+Tab:AddParagraph("ÙÙØ§Ø­Ø¶Ø© :", " Ø­Ø³Ø§Ø¨Ù Ø§ÙØªÙÙ ÙÙØªÙØ§ØµÙ ÙØ¹Ù ÙÙ ØªØ¨ÙÙÙ Ø§ØµÙÙ Ø´Ù ÙÙ Ø³ÙØ±Ø¨Øª")
 
--- Add a button to teleport to the selected player
-Tab:AddButton({
-    Name = "روح عند الاعب",
-    Callback = function()
-        floatAbovePlayerHead()
-    end    
-})
-
--- Add a button to move behind the selected player and return after 1.5 seconds
-Tab:AddButton({
-    Name = "اسحب الاعب",
-    Callback = function()
-        moveBehindAndReturn()
-    end    
-})
--- Function to teleport behind the selected player and then move to a fixed position
-local function moveBehindThenTeleportToFixedPosition()
-    local player = game.Players.LocalPlayer
-    local character = player.Character or player.CharacterAdded:Wait()
-    local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
-    local teleportPosition = Vector3.new(0.9995850324630737, -489.0882873535156, 1.0034377574920654)
-
-    if humanoidRootPart and selectedPlayer then
-        local targetPlayer = game.Players:FindFirstChild(selectedPlayer)
-        if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
-            local targetHumanoidRootPart = targetPlayer.Character.HumanoidRootPart
-
-            -- Move behind the selected player
-            humanoidRootPart.CFrame = targetHumanoidRootPart.CFrame * CFrame.new(0, 0, 3)
-
-            -- Wait for 1.1 seconds before teleporting to the fixed position
-            wait(1.1)
-
-            -- Teleport to the fixed position
-            humanoidRootPart.CFrame = CFrame.new(teleportPosition)
-        else
-            print("Selected player not found or not in the game.")
-        end
-    else
-        print("No player or HumanoidRootPart found!")
-    end
-end
-
--- Add a new button to move behind the selected player and then teleport to a fixed position
-Tab:AddButton({
-    Name = "اقتل الاعب",
-    Callback = function()
-        moveBehindThenTeleportToFixedPosition()
-    end    
-})
 local Section = Tab:AddSection({
-	Name = "ادمن"
+    Name = "Ø­Ø³Ø§Ø¨Ù ØªÙÙ"
 })
-Tab:AddTextbox({
+
+-- Add a button to copy the link to the clipboard
+Tab:AddButton({
+    Name = "Ø§Ø¶ØºØ· ÙÙØ³Ø® Ø­Ø³Ø§Ø¨Ù ØªÙÙ",
+    Callback = function()
+        -- Script to copy the link to the clipboard
+        setclipboard("asf.69")
+        OrionLib:MakeNotification({
+            Name = "ØªÙ ÙØ³Ø®",
+            Content = "ÙÙØ¯ ØªÙ ÙØ³Ø® Ø­Ø³Ø§Ø¨ Ø§ÙÙØ·ÙØ± ØªÙÙ ",
+            Image = "rbxassetid://115714662895227",
+            Time = 5
+        })
+    end
+})
+
+local Section = Tab:AddSection({
+    Name = "Ø­Ø³Ø§Ø¨Ù Ø±ÙØ¨"
+})
+
+-- Add a button to copy the link to the clipboard
+Tab:AddButton({
+    Name = "Ø§Ø¶ØºØ· ÙÙØ³Ø® Ø­Ø³Ø§Ø¨Ù Ø§ÙØ±ÙØ¨",
+    Callback = function()
+        -- Script to copy the link to the clipboard
+        setclipboard("Dnawe1")
+        OrionLib:MakeNotification({
+            Name = "ØªÙ ÙØ³Ø®",
+            Content = "ÙÙØ¯ ØªÙ ÙØ³Ø® Ø­Ø³Ø§Ø¨ Ø§ÙÙØ·ÙØ± Ø±ÙØ¨ ",
+            Image = "rbxassetid://115714662895227",
+            Time = 5
+        })
+    end
+})
+
+local Tab = Window:MakeTab({
+    Name = "BROOKHAVEN",
+    Icon = "rbxassetid://115714662895227",
+    PremiumOnly = false
+})
+
+-- Add a section to the tab
+local Section = Tab:AddSection({
+    Name = "Ø³ÙØ±Ø¨ØªØ§Øª "
+})
+
+Tab:AddButton({
+    Name = "Ø¬ÙØ¯Ø©",
+    Callback = function()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Rtx-graphics-25102"))()
+   end
+})
+
+Tab:AddButton({
+  Name = "Ø§Ø²Ø§ÙØ© Ø§ÙØ§Ù",
+  Callback = function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+   end
+})
+
+Tab:AddButton({
+    Name = "Ø±ÙØµØ§Øª",
+    Callback = function()
+        loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Fe-All-Emote-7386"))()
+    end
+})
+
+Tab:AddButton({
+    Name = " Ø´ÙØª",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Sector9922/SECTOR-SHIFT-LOCK/main/SECTOR%20SHIFT%20LOCK"))()
+    end
+})
+
+Tab:AddButton({
+    Name = " ØªØ·ÙØ± Ø¨Ù ÙÙØ¨Ø©",
+    Callback = function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/TXMNj1yy'))()
+    end
+})
+
+Tab:AddButton({
+    Name = "Ø§ÙÙÙØ§Ù",
+    Callback = function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0kc/AtomicHub/main/Map-Al-Biout.lua"))()
+   end
+})
+
+Tab:AddButton({
+    Name = "Ø§ÙØ±Ø­ÙØ©1",
+    Callback = function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+    end    
+})
+
+Tab:AddButton({
+  Name = "Ø±Ø­ÙØ©2",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VR7ss/OMK/refs/heads/main/VR7-ON-TOP"))()
+       end
+})
+
+Tab:AddButton({
     Name = "حط كود الصوت",
     Default = "default box input",
     TextDisappear = true,
@@ -1717,405 +310,3 @@ Tab:AddTextbox({
         game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clothe1s"):FireServer(unpack(args4))
     end    
 })
-
---[[
-Name = <string> - The name of the textbox.
-Default = <string> - The default value of the textbox.
-TextDisappear = <bool> - Makes the text disappear in the textbox after losing focus.
-Callback = <function> - The function of the textbox.
-]]
-Tab:AddButton({
-	Name = "اداة حذف القطع الي تتحرك",
-	Callback = function()
-      		local tool = Instance.new("Tool")
-tool.Name = "يحمل"
-tool.RequiresHandle = false
-
--- Create a local variable to store the mouse
-local mouse = nil
-
--- Function to check if a part is unanchored
-local function isUnanchored(part)
-    return not part:IsDescendantOf(workspace) or not part:IsDescendantOf(game:GetService("Players").LocalPlayer.Character) or not part.Anchored
-end
-
--- Function to handle part selection
-local function handlePart(part)
-    if isUnanchored(part) then
-        -- Apply a force to fling the part
-        local flingForce = Instance.new("BodyVelocity")
-        flingForce.Velocity = Vector3.new(9999, 9999, 9999) -- Change the velocity as per your requirement. Change it to this ( 0, 10000, 0) to make it stronger 
-        flingForce.P = math.huge
-        flingForce.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
-        flingForce.Parent = part
-
-        -- Create a fire effect
-        local fire = Instance.new("Fire")
-        fire.Size = 20 -- Change the size of the fire as per your requirement
-        fire.Heat = 20 -- Change the heat of the fire as per your requirement
-        fire.Parent = part
-
-        -- Remove the fire effect and force after a short delay
-        wait(0.5) -- Change the delay as per your requirement
-        fire:Destroy()
-        flingForce:Destroy()
-    end
-end
-
--- Function to handle tool equipped event
-local function onEquipped()
-    -- Get the local player's mouse
-    mouse = game:GetService("Players").LocalPlayer:GetMouse()
-
-    -- Connect the mouse button press event
-    mouse.Button1Down:Connect(function()
-        -- Check if the mouse target is a part
-        if mouse.Target and mouse.Target:IsA("BasePart") then
-            handlePart(mouse.Target)
-        end
-    end)
-end
-
--- Function to handle tool unequipped event
-local function onUnequipped()
-    -- Disconnect the mouse button press event
-    if mouse then
-        mouse.Button1Down:Disconnect()
-        mouse = nil
-    end
-end
-
--- Connect the tool equipped and unequipped events
-tool.Equipped:Connect(onEquipped)
-tool.Unequipped:Connect(onUnequipped)
-
--- Add the tool to the player's backpack
-game:GetService("Players").LocalPlayer.Backpack:ClearAllChildren()
-tool.Parent = game:GetService("Players").LocalPlayer.Backpack
-
-
-
-local players = game:GetService("Players")
-local player = players.LocalPlayer
-local backpack = player.Backpack
-
-for _, tool in ipairs(backpack:GetChildren()) do
-    if tool:IsA("Tool") then
-        tool.Parent = player.Character
-    end
-end
-
-wait(1)
-game.Players.LocalPlayer.Character.Humanoid.Health = 0
-
-wait(1)
-
-local args = {
-    [1] = "PickingTools",
-    [2] = "Hammer"
-}
-
-game:GetService("ReplicatedStorage").RE["1Too1l"]:InvokeServer(unpack(args))
-
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the dropdown (to select a player).
-Default = <string> - The default value of the dropdown.
-Options = <table> - The list of player names.
-Callback = <function> - The function that triggers when a player is selected.
-
-Name = <string> - The name of the first toggle (to spectate the player).
-Default = <bool> - The default value of the toggle.
-Callback = <function> - The function that triggers when the toggle is clicked.
-
-Name = <string> - The name of the second toggle (to float above the player's head and trigger the FireServer).
-Default = <bool> - The default value of the toggle.
-Callback = <function> - The function that triggers when the toggle is clicked.
-
-Name = <string> - The name of the first button (to teleport to the selected player).
-Callback = <function> - The function that triggers when the button is clicked.
-
-Name = <string> - The name of the second button (to move behind the selected player and return to the original position after 1.5 seconds).
-Callback = <function> - The function that triggers when the button is clicked.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
-local Tab = Window:MakeTab({
-	Name = "المابات المدعومة للسكربت",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "المابات المدعومة للسكربت قائمة وتشغيلها"
-})
-Tab:AddButton({
-	Name = "MM2",
-	Callback = function()
-      		loadstring(game:HttpGet("https://pastebin.com/raw/nrfbPyqD"))()
-  	end    
-})
-Tab:AddButton({
-	Name = "سكربت حذف السلم او الشي الي كل ما تمشي عليه يختفي لللباركورات",
-	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/obby-ruiner/main/obby-ruiner.lua",true))()
-  	end    
-})
-Tab:AddButton({
-	Name = "اخذ فلوس بوقت سريع ماب المطعم",
-	Callback = function()
-      		loadstring(game:HttpGet("https://rawscripts.net/raw/My-Restaurant!-Fast-Autofarm-4610"))()
-  	end    
-})
-Tab:AddButton({
-	Name = "داندي ورلد Dandy",
-	Callback = function()
-      		loadstring(game:HttpGet("https://pastebin.com/raw/D8yHCstP"))() 
-  	end    
-})
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-local Section = Tab:AddSection({
-	Name = "قريبا"
-})
-local Tab = Window:MakeTab({
-	Name = "الاعدادات",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Section = Tab:AddSection({
-	Name = "الشاشة"
-})
-Tab:AddButton({
-	Name = "قفل في الشاشه",
-	Callback = function()
-      		loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FE-Mobile-Shiftlock-Official-19126"))()
-  	end    
-})
-local Section = Tab:AddSection({
-	Name = "الاعب"
-})
-Tab:AddTextbox({
-    Name = "اكتب السرعه الي تبغاها",
-    Default = "16",  -- القيمة الافتراضية
-    TextDisappear = true,
-    Callback = function(Value)
-        local player = game.Players.LocalPlayer
-        local speedValue = tonumber(Value)  -- تحويل النص إلى رقم
-        if player and player.Character and player.Character:FindFirstChild("Humanoid") then
-            if speedValue then
-                player.Character.Humanoid.WalkSpeed = speedValue  -- تغيير سرعة المشي
-            else
-                print("Invalid input!")
-            end
-        end
-    end    
-})
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
---[[
-Name = <string> - The name of the section.
-]]
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
